@@ -1,0 +1,23 @@
+{
+	"questions":[
+		{ "question":"Which is the first planet in our Solar system?",
+		"answer1":"Mercury",
+		"answer2":"Venus",
+		"answer3":"Mars",
+		"answer4":"Earth",
+		"correct":"Mercury"},
+		{ "question":"What is the diameter of the Earth?",
+		"answer1":"20,483 Kilometers",
+		"answer2":"12,742 Kilometers",
+		"answer3":"40,715 Kilometers",
+		"answer4":"5,010 kilometers",
+		"correct":"12,742 Kilometers"},
+		{ "question":"How many bones are there in a human skeleton?",
+		"answer1":"156",
+		"answer2":"243",
+		"answer3":"it depends......normally 206",
+		"answer4":"206",
+		"correct":"it depends......normally 206"}
+	
+	]
+}
